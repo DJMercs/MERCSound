@@ -1,6 +1,11 @@
 
 @font-face
 {
+    font-family: 'neon';
+    src: url('polices/neon.ttf')
+}
+@font-face
+{
     font-family: 'rust';
     src: url('polices/armyrust.ttf')
 }
