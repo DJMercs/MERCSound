@@ -259,7 +259,7 @@ scroll-page{
 		margin-top: 0%;
 	}
 	#demtimedeh{
-		background-image: url("images/mixCovers/dtdhs.png");
+		background-image: url("images/mixcovers/dtdhs.png");
 		margin-top: 0%;
 	}
 	#elastik{
@@ -280,12 +280,12 @@ scroll-page{
 	}
 
 	#funkyByNature{
-		background-image: url("images/fbn.png");
+		background-image: url("images/mixcovers/fbn.png");
 		margin-top: 0%;
 	}
 
 	#hitSquad{
-		background-image:url("images/mixcovers/hitSquad.png");
+		background-image:url("images/mixcovers/hitsquad.png");
 		background-size: 93%;
 		margin-top: 0%;
 	}
